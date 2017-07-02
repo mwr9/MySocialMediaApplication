@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MySocialMediaApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_activity_description">Choose content to share:</string>
+    <string name="share_generic">Share</string>
+    <string name="title_share_text">Share Text</string>
+    <string name="share_text_description">Enter anything to share in the text box:</string>
+    <string name="share_text_hint">Enter Text</string>
+    <string name="hint_search">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="app_label">Search</string>
+    <string name="db_manage_text">Database Explorer</string>
+    <string name="search_manage_text">Search the Database</string>
+    <string name="title_share_picture">Share Picture</string>
+    <string name="title_db_manager">Manage Database</string>
+    <string name="picture_description">Select a picture to share:</string>
+    <string name="histogram_description">Histogram calculations of the picture:</string>
+    <string name="picture_camera_button_text">Get from Camera!</string>
+    <string name="picture_database_button_text">Get from Database!</string>
+    <string name="get_picture_button_text">Get from Network!</string>
+    <string name="get_picture_hint">Name of picture</string>
+    <string name="save_picture_button_text">Save to Database</string>
+    <string name="save_picture_hint">Picture id to save</string>
+    <string name="get_picture_url">Full picture URL: www.greatpictures.com/snap.jpg</string>
+    <string name="picture_thumbnail_description">Captured image to share</string>
+
+</resources>
